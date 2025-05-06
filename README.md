@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Klingri
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on Nothing Yet
+- 📫 How to reach me, you can't
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I got into computers 10 years ago
