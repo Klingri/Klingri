@@ -17,10 +17,7 @@
 ###
 
 
+<a href="https://github.com/Klingri">My Github Profile</a>
 
-| Roadmap  | Field | | Description |
-| ------------- | ------------- | | ------------- |
-| Q4 2025  | HTML  | | Learn More About HTML  |
-| Q1 2026  | CSS  | | Learn More About CSS  |
 
 ###
