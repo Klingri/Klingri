@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/ycM_PFabF1YAAAAd/serbia-srbija.gif"  />
+  <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Civil_flag_of_Serbia.svg/330px-Civil_flag_of_Serbia.svg.png"  />
 </div>
 
 ###
