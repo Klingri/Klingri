@@ -4,10 +4,10 @@
 Klingri
 ```
 ```yaml
-Being a Developer since 2024
+using HTML: 2024—Present
 ```
 ```yaml
-Luau Developer since 2017
+Roblox Developer: 2017—2025
 ```
 
 ---
